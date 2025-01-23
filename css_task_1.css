@@ -13,6 +13,7 @@ h1 {
     transition: 0.2s;
     background-color: rgb(176, 176, 176);
     border-radius: 3px;
+    color: black;
 }
 header {
     background-color: black;
