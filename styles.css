@@ -1,0 +1,55 @@
+.about-us
+{
+    padding-top: 80px;
+}
+
+.pic
+{
+    height: auto;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.about
+{
+    width: 1130px;
+    max-width: 85%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text
+{
+    width: 540px;
+}
+
+.text h2
+{
+    color: #333;
+    font-size: 70px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.text p
+{
+    color: #333;
+    font-size: 20px;
+}
+
+.data
+{
+    margin-top: 30px;
+}
+
+.hire
+{
+    font-size: 18px;
+    background: #4070f4;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 6px;
+}
