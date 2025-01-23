@@ -1,0 +1,29 @@
+.pic {
+    width: 400px;
+    border-radius: 500%;
+    padding: 30px;
+}
+.text {
+    width: 500px;
+    
+}
+.about {
+    justify-content: center;
+    padding: 2px;
+    display: flex;
+    margin: 10%;
+}
+p {
+    padding: 2px;
+
+}
+h2 {
+        font-size: 40px;
+}
+.more {
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    text-decoration: none;
+}
