@@ -1,0 +1,138 @@
+header h1
+{
+    color: rgb(176, 176, 176);
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.navbar
+{
+    padding: 10px;
+    color: aliceblue;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.navbar:hover
+{
+    transition: 0.2s;
+    background-color: rgb(176, 176, 176);
+    border-radius: 3px;
+    color: black;
+}
+
+header
+{
+    background-color: black;
+}
+
+header div
+{
+    margin: 0;
+    padding: 0 25px 15px 0;
+}
+/* body {
+    background-color: black;
+} */
+.pic {
+    width: 400px;
+    border-radius: 50%;
+    padding: 40px;
+}
+.text {
+    width: 500px;
+    
+}
+.about-us {
+    background-image: linear-gradient(0deg, rgb(119, 150, 252), rgb(21, 239, 255));
+}
+.about {
+    justify-content: center;
+    padding: 2px;
+    display: flex;
+    margin: 10%;
+}
+.text p {
+    padding: 2px;
+
+}
+.text h2 {
+        font-size: 40px;
+}
+.more {
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.my-skills{
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(0deg, blueviolet, rgb(119, 150, 252));
+}
+.my-skills div{
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    margin: 45px 0px 40px 0px;
+    background-color: black;
+    color: white;
+}
+.my-skills div {
+    text-align: center;
+}
+.yt {
+    width: 40%;
+    padding-top: 20px;
+}
+a {
+    text-decoration: none;
+}
+a:visited, a{
+    color: aqua;
+}
+#h1 {
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(0deg, blueviolet, rgb(119, 150, 252));
+}
+.my-skills div:hover{
+    box-shadow: 15px 12px 15px rgba(0, 0, 0, 0.4);
+    transition: 0.2s;
+}
+#contact div
+{
+    width: 700px;
+    color: rgb(95, 155, 230);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    padding-top: 30px;
+    height: 500px;
+    margin: 0;
+    text-align: center;
+}
+
+#contact div input
+{
+    width: 255px;
+}
+
+#contact #submit
+{
+    background-image: linear-gradient(0deg, rgb(125, 0, 125), blueviolet);
+    color: white;
+    height: 25px;
+}
+footer {
+    background-image: linear-gradient(0deg, rgb(125, 0, 125), blueviolet);
+}
+#contact
+{
+    display: flex;
+    justify-content: center;
+}
